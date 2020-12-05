@@ -1,1 +1,22 @@
+#ScoreBoard{
+text-align:center;
+}
+.input{
+  margin: 10px;
+}
+#inputs{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+}
 
+.input:hover{
+   background-color:#4095c6;
+}
+
+#gameButtonDiv{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
